@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "An Addon for Minecraft Bedrock",
+        "name": "Project Cornerstone",
+        "uuid": "948653cf-3543-48fa-9774-e65bf4815e04",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Project Cornerstone Main Module",
+            "type": "data",
+            "uuid": "da41a72e-ea97-4f8f-a27a-8bfa40d54ca3",
+            "version": [0, 0, 1]
+        }
+    ]
+}
